@@ -1,0 +1,1 @@
+/* Javascript used on Index.html */
